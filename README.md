@@ -18,9 +18,8 @@
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Getting Started with Eclipse](https://www.eclipse.org/getting_started/)
+* [Java Random Library Documentation](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
 
 # Future Work
 
