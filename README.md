@@ -21,7 +21,6 @@ Here is a demo of my software: [Software Demo Video](http://youtube.link.goes.he
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Add the capability to read and write to a file to keep track of each result set.
 * Make it so that the software can simulate chromosome variation (deletions, translations, duplications, inversions).
 * Allow user input to specify the desired chromosome size.
