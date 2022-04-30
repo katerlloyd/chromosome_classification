@@ -4,6 +4,7 @@ I created this software to increase my understanding of the Java language and ho
 
 Here is a demo of my software: [Software Demo Video](https://youtu.be/W_D2bo7poCg)
 
+## Example Output
 ![Example of a submetacentric centromere](example.jpg)
 
 # Development Environment
