@@ -1,8 +1,10 @@
 # Overview
 
-I created this software to increase my understanding of the Java language and how it is structured and organized and I wanted to aquaint myself with more programming langueages as well. This software randomly places a centromere in a chromosome and calculates the length of the short (p) arm and the long (q) arm. It also displays a simple depiction of the chromosome and the arm length ratio and chromosome type. My purpose for writing this software was to familiarize myself with the basics of the Java language and syntax and to utilize what I have learned about genetics in a piece of software. 
+I created this software to increase my understanding of the Java language and how it is structured and organized and I wanted to aquaint myself with more programming languages as well. This software randomly places a centromere in a chromosome and calculates the length of the short (p) arm and the long (q) arm. It also displays a simple depiction of the chromosome and the arm length ratio and chromosome type. My purpose for writing this software was to familiarize myself with the basics of the Java language and syntax and to utilize what I have learned about genetics in a piece of software. 
 
 Here is a demo of my software: [Software Demo Video](https://youtu.be/W_D2bo7poCg)
+
+![Example of a submetacentric centromere](example.jpg)
 
 # Development Environment
 
